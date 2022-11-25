@@ -8,12 +8,6 @@ export const ItemListContainer = () => {
       <Card />
       <Card />
       <Card />
-      <Card />
-      <Card />
-      <Card />
-      <Card />
-      <Card />
-      <Card />
     </div>
   );
 };
