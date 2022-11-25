@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App container-fluid d-flex flex-column gap-2">
       <NavBar />
-      <ItemListContainer />
+      <ItemListContainer greeting="Primera entrega curso React" />
       <Cart />
     </div>
   );
