@@ -1,6 +1,6 @@
 import React from 'react';
 
-export const CartWidget = () => {
+const CartWidget = () => {
   return (
     <div
       type="button"
@@ -17,3 +17,5 @@ export const CartWidget = () => {
     </div>
   );
 };
+
+export default CartWidget;

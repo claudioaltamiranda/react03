@@ -1,6 +1,6 @@
 import React from 'react';
 
-export const Cart = () => {
+const Cart = () => {
   return (
     <div
       className="offcanvas offcanvas-start"
@@ -26,3 +26,5 @@ export const Cart = () => {
     </div>
   );
 };
+
+export default Cart;

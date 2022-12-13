@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "nombre": "Phantom F-4",
+    "descripcion": "El McDonnell Douglas F-4 Phantom IIN 1​ es un interceptor y cazabombardero supersónico, biplaza, bimotor y de largo alcance desarrollado originalmente para la Armada de los Estados Unidos por McDonnell Aircraft.2​ Entró en servicio en 1960 con la Armada estadounidense. También fue adoptado por el Cuerpo de Marines y en 1963 por la Fuerza Aérea de los Estados Unidos, de forma que a mediados de los años 1960 ya constituía una parte importante de sus respectivas flotas de aeronaves.",
+    "imagen": "/images/f4.jpg",
+    "precio": 12.5,
+    "stock": 31,
+    "categoria": "caza"
+  },
+  {
+    "id": 2,
+    "nombre": "Tomcat F-14",
+    "descripcion": "El Grumman F-14 Tomcat es un caza supersónico biplaza con alas de geometría variable pesado, de largo alcance y doble motor, diseñado por Grumman para la Armada de los Estados Unidos. El objetivo primario del Tomcat era la defensa de la flota naval y, entre sus objetivos secundarios, podían contarse la escolta de bombarderos y, más tarde, el ataque contra objetivos en tierra.",
+    "imagen": "/images/f14.jpg",
+    "precio": 22,
+    "stock": 12,
+    "categoria": "caza"
+  },
+  {
+    "id": 3,
+    "nombre": "Intruder A-6",
+    "descripcion": "El Grumman A-6 Intruder fue un avión de ataque bimotor de ala media, diseñado por la compañía estadounidense Grumman Aerospace. Estuvo en servicio desde 1963 hasta 1997. El Intruder fue diseñado como una aeronave todotiempo que reemplazó al A-1 Skyraider. A pesar de algunos problemas iniciales con su sofisticado sistema de navegación y ataque, el A-6 demostró muy pronto ser una soberbia plataforma de ataque todotiempo. Capaz de llevar gran cantidad de armamento; el Intruder sería conocido como el “mini B-52”. Su radar de ataque le permitía una magnífica precisión en las misiones de bombardeo. A menudo fue utilizado para dirigir a otros aviones menos capacitados en misiones de bombardeo a ciegas, suministrando información de navegación y de lanzamiento de bombas.",
+    "imagen": "/images/a6.jpg",
+    "precio": 45.5,
+    "stock": 5,
+    "categoria": "ataque"
+  }
+]
